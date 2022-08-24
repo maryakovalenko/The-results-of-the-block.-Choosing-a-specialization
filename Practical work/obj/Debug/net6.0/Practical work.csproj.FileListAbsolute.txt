@@ -1,0 +1,15 @@
+D:\The results of the block. Choosing a specialization\Practical work\bin\Debug\net6.0\Practical work.exe
+D:\The results of the block. Choosing a specialization\Practical work\bin\Debug\net6.0\Practical work.deps.json
+D:\The results of the block. Choosing a specialization\Practical work\bin\Debug\net6.0\Practical work.runtimeconfig.json
+D:\The results of the block. Choosing a specialization\Practical work\bin\Debug\net6.0\Practical work.dll
+D:\The results of the block. Choosing a specialization\Practical work\bin\Debug\net6.0\Practical work.pdb
+D:\The results of the block. Choosing a specialization\Practical work\obj\Debug\net6.0\Practical work.csproj.AssemblyReference.cache
+D:\The results of the block. Choosing a specialization\Practical work\obj\Debug\net6.0\Practical work.GeneratedMSBuildEditorConfig.editorconfig
+D:\The results of the block. Choosing a specialization\Practical work\obj\Debug\net6.0\Practical work.AssemblyInfoInputs.cache
+D:\The results of the block. Choosing a specialization\Practical work\obj\Debug\net6.0\Practical work.AssemblyInfo.cs
+D:\The results of the block. Choosing a specialization\Practical work\obj\Debug\net6.0\Practical work.csproj.CoreCompileInputs.cache
+D:\The results of the block. Choosing a specialization\Practical work\obj\Debug\net6.0\Practical work.dll
+D:\The results of the block. Choosing a specialization\Practical work\obj\Debug\net6.0\refint\Practical work.dll
+D:\The results of the block. Choosing a specialization\Practical work\obj\Debug\net6.0\Practical work.pdb
+D:\The results of the block. Choosing a specialization\Practical work\obj\Debug\net6.0\Practical work.genruntimeconfig.cache
+D:\The results of the block. Choosing a specialization\Practical work\obj\Debug\net6.0\ref\Practical work.dll
